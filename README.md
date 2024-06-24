@@ -20,7 +20,6 @@ O que aprenderemos?
 * Utilização eficiente do Github Copilot
 
 <br>
-
 ## 2 - Repetindo Textos ✏️
 
 Descrição:
